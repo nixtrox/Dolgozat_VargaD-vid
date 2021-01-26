@@ -1,0 +1,145 @@
+table, th, td {
+    border: 0px solid black;
+    border-collapse: collapse;
+    background-color: lightblue;
+    margin: 30px;
+    width: 960px;
+
+}
+
+
+#forras{
+    background-color: grey;
+    text-align: left;
+}
+
+h4{
+    margin-left: 60px;
+    margin-top: 0px;
+    font-weight: normal;
+    font-style: italic;
+}
+
+body{
+    background-color: grey;
+    align-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+#informatika{
+    border-top: 6px double darkblue;
+    margin-left: 30px;
+    
+    
+  
+}
+
+
+#alcim{
+    text-align: left;
+    text-transform: uppercase;
+    color: darkblue;
+    margin-left: 30px;
+}
+
+#alcim1{
+    background-color: darkblue;
+    border: 0px;
+    height: 2px;
+    margin-bottom: -15px;
+    margin-top: 30px;
+    margin-right: 40%;
+    margin-left: 30px;
+}
+
+#alcim2{
+    
+    border-top: 2px dotted darkblue;
+    height: 0px;
+    margin-top: -15px;
+    margin-right: 40%;
+    margin-left: 30px;
+}
+
+
+p{
+    text-align: justify;
+    font-weight: normal;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#kep1{
+    float: right;
+    width: 150px;
+    margin: 20px;
+    border: 5px solid darkblue;
+    margin-top: -16px;
+}
+
+
+
+#kep2{
+    float: right;
+    width: 150px;
+    margin: 20px;
+    border: 5px solid darkblue;
+}
+
+#neumann{
+    float: left;
+    width: 150px;
+    margin: 20px;
+    margin-left: 30px;
+    border: 5px solid darkblue;
+}
+
+#neumann2{
+    float: right;
+    width: 150px;
+    margin: 20px;
+    margin-right: 30px;
+    margin-top: -50px;
+    border: 5px solid darkblue;
+}
+
+#alan{
+    float: left;
+    width: 150px;
+    margin: 20px;
+    margin-left: 30px;
+    border: 5px solid darkblue;
+}
+
+
+
+ul {
+    text-align: justify;
+    list-style: square inside url("kukac.png");
+    list-style-position: outside;
+    
+    
+
+  }
+
+  li{
+      font-weight: normal;
+      text-align: justify;
+      margin-right: 30px;
+      margin-left: 30px;
+      
+  }
+
+
+  a:hover {
+    color: darkblue;
+  }
+ 
